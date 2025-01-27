@@ -1,7 +1,9 @@
 # Blood Pressure Tracker
-
+View the deployed website here- https://bloodpressuremonitor.netlify.app/
+![image](https://github.com/user-attachments/assets/6d315b23-90f2-4599-a9c9-4752aae12f1f)
 ## Overview
 Blood Pressure Tracker is a React-based web application that enables users to monitor, analyze, and manage their blood pressure readings. With interactive charts, insightful statistics, and easy data export, this app empowers users to take charge of their heart health.
+
 
 ## Features
 - **Track Blood Pressure Readings**: Log systolic, diastolic, and pulse data daily.
@@ -83,6 +85,11 @@ src/
 ├── main.tsx             # React application entry file
 └── App.tsx             # Main application file
 ```
+## Working Video
+
+
+https://github.com/user-attachments/assets/ae39b001-c193-48ac-bfee-886d728927a3
+
 
 ## Tech Stack
 - **Frontend**: React, TypeScript
